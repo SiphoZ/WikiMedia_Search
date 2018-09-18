@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Projwct was created to test and explore the real world application of APIs.
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby version : Ruby 2.5.1
 
-* System dependencies
 
-* Configuration
+* How to run the test
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ Step 1: Clone this GitHub Repository to your device.
+ 
+ Step 2: Open the folder and open the app folder, then open the models folder, you shal find a file named search.rb
+ 
+ Step 3: In your terminal run the file with the command: ruby search.rb, and that's it.
+ 
+ Enjoy:)
