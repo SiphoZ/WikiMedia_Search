@@ -1,6 +1,6 @@
 # README
 
-This Projwct was created to test and explore the real world application of APIs.
+This Project was created to test and explore the real world application of APIs.
 
 
 * Ruby version : Ruby 2.5.1
