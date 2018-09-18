@@ -12,6 +12,6 @@ Running the application
  
  Step 2: Open the folder in your terminal, and type in `rails s` to run the rails server.
  
- Step 3: Once the server has began running, go to your browser and enter ** localhost:3000**
+ Step 3: Once the server has began running, go to your browser and enter **localhost:3000**
  
  Enjoy :)
